@@ -1,5 +1,11 @@
 # Numerous Ninjas - A Thrilling Endless Sidescrolling 2D Mobile Game
 
+![logo](https://github.com/RedisMadani/sycophant/assets/136177376/016faabc-dae2-46ea-b8a3-edaa72c21b54)
+
+![gameplay_0](https://github.com/RedisMadani/sycophant/assets/136177376/0c3e2f18-20c3-4819-ab7c-7d5a435fce5a)
+
+![gameplay_1](https://github.com/RedisMadani/sycophant/assets/136177376/42edd59a-09f5-4b59-9768-40c6ae78f0bd)
+
 ## Game Summary
 
 In **Numerous Ninjas**, you'll have the opportunity to customize and control a squad of nimble ninjas capable of rotating and navigating along any axis you desire. Your mission is to conquer a series of chambers while overcoming a myriad of challenging obstacles. Prepare to navigate hot lava, dodge crushing machines, evade projectile-firing weapons, and contend with lasers triggered by your orientation, among many other thrilling challenges.
