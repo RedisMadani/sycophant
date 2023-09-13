@@ -1,6 +1,8 @@
 # Numerous Ninjas - A Thrilling Endless Sidescrolling 2D Mobile Game
 
-![logo](https://github.com/RedisMadani/sycophant/assets/136177376/016faabc-dae2-46ea-b8a3-edaa72c21b54)
+<center>
+  ![logo](https://github.com/RedisMadani/sycophant/assets/136177376/016faabc-dae2-46ea-b8a3-edaa72c21b54)
+</center>
 
 ![gameplay_0](https://github.com/RedisMadani/sycophant/assets/136177376/0c3e2f18-20c3-4819-ab7c-7d5a435fce5a)
 
